@@ -1,0 +1,5 @@
+body {margin: 0;}
+form#codefrm{font-size:16px;}
+form#codefrm .keptybtn {background-color: #0073aa;border: none;color: #fff;padding: 7px 14px;cursor:pointer;}
+.codebox{width:85%;display:inline-block;}
+.codebox_fields {display: inline-block;float: left;padding: 30px;}
